@@ -1,3 +1,5 @@
+import java.awt.Color;
+
 public abstract class Blittable{
 
 protected boolean[][] image;

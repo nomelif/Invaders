@@ -4,6 +4,10 @@ protected boolean[][] image;
 protected Color color;
 protected int x;
 protected int y;
+public int InvType;
+public static int INVADER = 0;
+public static int BULLET = 1;
+public static int SHIP = 2;
 
 // true values in image should be filled with the color defined in the color variable
 //Location of the object is defined by x and y, size by image

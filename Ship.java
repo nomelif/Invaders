@@ -1,3 +1,5 @@
+import java.awt.Color;
+
 public class Ship extends Blittable{
 
 public Ship(int[] location){

@@ -1,7 +1,7 @@
 public class Bullet extends Blittable{
 
 public Bullet(){
-    this.color = Color.YELLOW;
+    this.color = Color.yellow;
     this.image = {{true, true}, {true, true}};
     //##
     //##

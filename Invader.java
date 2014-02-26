@@ -5,7 +5,7 @@ public Invader(boolean[][] image, int[] location, Color color){
     this.x = location[0];
     this.y = location[1];
     this.image = image;
-    this.invType = Blittable.INVADER;
+    this.InvType = Blittable.INVADER;
 }
 
 }

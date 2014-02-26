@@ -1,3 +1,5 @@
+import java.awt.Color;
+
 public class Invader extends Blittable{
 
 public Invader(boolean[][] image, int[] location, Color color){

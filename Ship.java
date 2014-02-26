@@ -7,7 +7,7 @@ public Ship(int[] location){
     //--#--
     //-###-
     //#####
-    this.color = Color.BLUE;
+    this.color = Color.blue;
     this.InvType = Blittable.SHIP;
 }
 
